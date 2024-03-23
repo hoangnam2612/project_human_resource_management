@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|d:\\3letterschool\\semester 5\\prn211\\source code\\humanresourcemanagementproject\\humanresourcemanagement\\frmdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|solutionrelative:humanresourcemanagement\\frmdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\humanresourcemanagement\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|solutionrelative:humanresourcemanagement\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\humanresourcemanagement\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|solutionrelative:humanresourcemanagement\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\humanresourcemanagement\\frmshowinfoemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|solutionrelative:humanresourcemanagement\\frmshowinfoemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\humanresourcemanagement\\frmaddnewemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|solutionrelative:humanresourcemanagement\\frmaddnewemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\humanresourcemanagement\\frmaddnewemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|solutionrelative:humanresourcemanagement\\frmaddnewemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\humanresourcemanagement\\frmshowinfoemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|solutionrelative:humanresourcemanagement\\frmshowinfoemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\humanresourcemanagement\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|solutionrelative:humanresourcemanagement\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\humanresourcemanagement\\employeesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|solutionrelative:humanresourcemanagement\\employeesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\humanresourcemanagement\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|solutionrelative:humanresourcemanagement\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\humanresourcemanagement\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|solutionrelative:humanresourcemanagement\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\humanresourcemanagement\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|solutionrelative:humanresourcemanagement\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\humanresourcemanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|solutionrelative:humanresourcemanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\humanresourcemanagement\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|solutionrelative:humanresourcemanagement\\frmusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\humanresourcemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|solutionrelative:humanresourcemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\humanresourcemanagement\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17872B37-752D-462C-B8EF-AA83D79C1A8B}|HumanResourceManagement\\HumanResourceManagement.csproj|solutionrelative:humanresourcemanagement\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmDepartment.cs",
+              "DocumentMoniker": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmDepartment.cs",
+              "RelativeDocumentMoniker": "HumanResourceManagement\\frmDepartment.cs",
+              "ToolTip": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmDepartment.cs",
+              "RelativeToolTip": "HumanResourceManagement\\frmDepartment.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAewHIAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T08:06:43.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmMain.cs",
+              "RelativeDocumentMoniker": "HumanResourceManagement\\frmMain.cs",
+              "ToolTip": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmMain.cs",
+              "RelativeToolTip": "HumanResourceManagement\\frmMain.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAcwBkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:24:08.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAddNewEmployee.cs [Design]",
+              "DocumentMoniker": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmAddNewEmployee.cs",
+              "RelativeDocumentMoniker": "HumanResourceManagement\\frmAddNewEmployee.cs",
+              "ToolTip": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmAddNewEmployee.cs [Design]",
+              "RelativeToolTip": "HumanResourceManagement\\frmAddNewEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T16:26:59.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmShowInfoEmployee.cs",
+              "DocumentMoniker": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmShowInfoEmployee.cs",
+              "RelativeDocumentMoniker": "HumanResourceManagement\\frmShowInfoEmployee.cs",
+              "ToolTip": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmShowInfoEmployee.cs",
+              "RelativeToolTip": "HumanResourceManagement\\frmShowInfoEmployee.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAcwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:38:22.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmMain.cs",
+              "RelativeDocumentMoniker": "HumanResourceManagement\\frmMain.cs",
+              "ToolTip": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmMain.cs [Design]",
+              "RelativeToolTip": "HumanResourceManagement\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:24:05.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAddNewEmployee.cs",
+              "DocumentMoniker": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmAddNewEmployee.cs",
+              "RelativeDocumentMoniker": "HumanResourceManagement\\frmAddNewEmployee.cs",
+              "ToolTip": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmAddNewEmployee.cs",
+              "RelativeToolTip": "HumanResourceManagement\\frmAddNewEmployee.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAwI8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:43:00.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmShowInfoEmployee.cs [Design]",
+              "DocumentMoniker": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmShowInfoEmployee.cs",
+              "RelativeDocumentMoniker": "HumanResourceManagement\\frmShowInfoEmployee.cs",
+              "ToolTip": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmShowInfoEmployee.cs [Design]",
+              "RelativeToolTip": "HumanResourceManagement\\frmShowInfoEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:13:00.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmLogin.cs",
+              "RelativeDocumentMoniker": "HumanResourceManagement\\frmLogin.cs",
+              "ToolTip": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmLogin.cs",
+              "RelativeToolTip": "HumanResourceManagement\\frmLogin.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwD0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:30:31.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmUsers.cs",
+              "DocumentMoniker": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmUsers.cs",
+              "RelativeDocumentMoniker": "HumanResourceManagement\\frmUsers.cs",
+              "ToolTip": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmUsers.cs",
+              "RelativeToolTip": "HumanResourceManagement\\frmUsers.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAowIgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:49:35.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeSession.cs",
+              "DocumentMoniker": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\EmployeeSession.cs",
+              "RelativeDocumentMoniker": "HumanResourceManagement\\EmployeeSession.cs",
+              "ToolTip": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\EmployeeSession.cs",
+              "RelativeToolTip": "HumanResourceManagement\\EmployeeSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:05:58.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "HumanResourceManagement\\Models\\Skill.cs",
+              "ToolTip": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\Models\\Skill.cs",
+              "RelativeToolTip": "HumanResourceManagement\\Models\\Skill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T05:31:59.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Position.cs",
+              "DocumentMoniker": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "HumanResourceManagement\\Models\\Position.cs",
+              "ToolTip": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\Models\\Position.cs",
+              "RelativeToolTip": "HumanResourceManagement\\Models\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:39:50.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "HumanResourceManagement\\Models\\Department.cs",
+              "ToolTip": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\Models\\Department.cs",
+              "RelativeToolTip": "HumanResourceManagement\\Models\\Department.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:39:19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmUsers.cs [Design]",
+              "DocumentMoniker": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmUsers.cs",
+              "RelativeDocumentMoniker": "HumanResourceManagement\\frmUsers.cs",
+              "ToolTip": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\frmUsers.cs [Design]",
+              "RelativeToolTip": "HumanResourceManagement\\frmUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T15:49:30.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "HumanResourceManagement\\appsettings.json",
+              "ToolTip": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\appsettings.json",
+              "RelativeToolTip": "HumanResourceManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAACUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-22T19:09:10.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\Models\\Contract.cs",
+              "RelativeDocumentMoniker": "HumanResourceManagement\\Models\\Contract.cs",
+              "ToolTip": "D:\\3LetterSchool\\semester 5\\PRN211\\source code\\HumanResourceManagementProject\\HumanResourceManagement\\Models\\Contract.cs",
+              "RelativeToolTip": "HumanResourceManagement\\Models\\Contract.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T19:39:34.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
